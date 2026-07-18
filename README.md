@@ -12,7 +12,7 @@
 
 
 ## 🔎 Method Overview
-<img src="figure\Net.png" style="zoom:65%;" />
+<img src="./figure/Net.png" style="zoom:55%;" />
 
 
 ## 🛠️ Create Environment
