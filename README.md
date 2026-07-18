@@ -29,7 +29,7 @@
    conda activate RFC
    ```
 ## 📥 Pre-trained Weights
-#### Download the pretrained weight from [Baidu Drive](https://pan.baidu.com/s/1tSb1QdPJR8wTBuvn7u2Zuw?pwd=gd3k), and place it in `'model/'`.
+#### Download the pretrained weight from [Baidu Drive](https://pan.baidu.com/s/1XkPolbqOXGQ8OvIi-bAx7g?pwd=ecjb), and place it in `'model/'`.
 
 ## 🏋️ Training
 
