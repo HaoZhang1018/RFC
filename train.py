@@ -16,7 +16,7 @@ import random
 import torch.distributed as dist
 import datetime
 
-train_path = '/data2/ZYP/dataset/RFC/train' #'./dataset/train/'
+train_path = './dataset/train/'
 log_path = './log/'
 checkpoint_path = './checkpoint/'
 CLIPSEG_MODEL_PATH = 'CLIPSeg/weights/rd64-uni-refined.pth'
