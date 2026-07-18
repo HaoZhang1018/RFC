@@ -1,4 +1,3 @@
-[README .md](https://github.com/user-attachments/files/30152351/README.md)
 <div align="center" style="text-decoration: none !important;">
     <h1>
       <a href="https://ojs.aaai.org/index.php/AAAI/article/view/38240" target="_blank" style="text-decoration: none !important;"> 		Robust Fusion Controller: Degradation-aware Image Fusion with Fine-grained Language Instructions (AAAI 2026)
